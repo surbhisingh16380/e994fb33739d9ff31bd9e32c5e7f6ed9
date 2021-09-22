@@ -7,7 +7,7 @@ var engine, world;
 var backgroundImg;
 var hour;
 
-var bg = "sunrise1.png";
+var bg = "sunrise.png";
 
 function preload() {
     // create getBackgroundImg( ) here
